@@ -1,13 +1,13 @@
-#  Mercadão
+#  Mercadão da solidariedade 🏬🌎💙
 
 Tem como proposta integrar pequenos negócios de bairro, autônomos e profissionais informais com sua clientela local para que possam gerar um fluxo de caixa com o intuito de sustentar o negócio enquanto durar o isolamento social gerado pela pandemia.
 Temos como intuito facilitar doações, vendas de vouchers e produtos via internet.
 
-#  Iniciando o Projeto
+# 🚀Iniciando o Projeto
 
 Ao clonar o repositório voce terá 3 pastas distintas referente ao Back-End, Front-End e Mobile, vamos iniciar pelo mais dificil, o Back-End !
 
-## Pré-Requisitos
+## ⚙️Pré-Requisitos
 
 Para começar, temos que ter alguns programas instalados em nosso computador.
 
@@ -19,7 +19,7 @@ Para começar, temos que ter alguns programas instalados em nosso computador.
 
 Após a instalação desses programas, acesse o site https://developer.here.com/ e faça um cadastro. 
 
-## Back-End
+## 💻 Back-End
 
 Vamos considerar que voce instalou o Docker, para instalar os containers com os seus devidos bancos, abra o Windows Power Shell como administrador e execute:
 
@@ -51,14 +51,14 @@ Abra o postbird, conecte usando as variaveis indicadas acima, e crie um Banco co
 ```shell
 $ yarn dev
 ```
-## FrontEnd
+## 💻FrontEnd
 Agora que nosso servidor esta executando, vamos abrir outro terminal na pasta frontend e executar o seguinte comando:
 
 ```shell
 $ yarn start
 ```
 
-## Mobile
+## 📱 Mobile
 
 Por ultimo, entramos na pagina mobile executamos o mesmo código anterior:
 
@@ -67,3 +67,11 @@ $ yarn start
 ```
 
 Vai abrir uma aba no seu navegador com um QrCode no canto inferior esquerdo, abra o aplicavivo Expo em seu celular para ler o QrCode, assim que ler, vai carregar todo o aplicativo em seu celular, basta apenas Usar o aplicativo :)
+
+## Time desenvolvedor
+Anderson – Marketing e Business💬
+Bruno Eleodoro – Desenvolvedor💻 
+Felipe – Designer e marketing 🎨
+Jonatas – Desenvolvedor 💻 
+Paulo – Designer e desenvolvedor 💻 🎨
+Rodrigo de Araújo Temóteo – Business e desenvolvedor 📊💻💬
